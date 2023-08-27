@@ -1,6 +1,6 @@
 class Solution {
 public:
-int solveRecursion(vector<int>& cost,int n){
+int solveRecursion(vector<int>& cost,int n){ // Recur
     //Base
     if(n==0) return cost[0];
     if(n==1) return cost[1];
@@ -10,7 +10,7 @@ int solveRecursion(vector<int>& cost,int n){
 
 }
 
-int solvedp(vector<int>& cost,int n,vector<int> &dp){
+int solvedp(vector<int>& cost,int n,vector<int> &dp){ // Recur + Memoization
     //Base
     if(n==0) return cost[0];
     if(n==1) return cost[1];
@@ -21,7 +21,7 @@ int solvedp(vector<int>& cost,int n,vector<int> &dp){
     return dp[n];
 
 }
-int solvedpBottomUp(vector<int>& cost,int n){
+int solvedpBottomUp(vector<int>& cost,int n){ // Tabulation
     //Step1 : Creation of dp array
     vector<int> dp(n+1);
     //Step2 : base case
@@ -33,7 +33,7 @@ int solvedpBottomUp(vector<int>& cost,int n){
     }
     return min(dp[n-1],dp[n-2]);
 }
-int solvedpBottomUP(vector<int>& cost,int n){
+int solvedpBottomUP(vector<int>& cost,int n){ // Tabulation + Space Optimation
 
     int prev2= cost[0];
     int prev1 = cost[1];
@@ -64,7 +64,7 @@ int solvedpBottomUP(vector<int>& cost,int n){
 
         //
         int n = cost.size();
-        return solvedpBottomUP(cost,n);
+        return solvedpBottomUp(cost,n);
 
     }
 };
