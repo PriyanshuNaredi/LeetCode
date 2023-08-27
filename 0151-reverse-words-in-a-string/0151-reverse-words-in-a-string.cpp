@@ -18,7 +18,8 @@ string result(string s)
         if(temp!=""){
             ans=temp+" "+ans;
         }
-        return ans.substr(0,ans.size()-1);
+
+        return ans.substr(0,ans.size()-1); // at last there is an emplty space present so we remeove it by  using str function
  
 }
     string reverseWords(string s) {
