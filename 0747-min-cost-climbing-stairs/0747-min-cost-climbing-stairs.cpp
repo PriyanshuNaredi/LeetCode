@@ -33,6 +33,18 @@ int solvedpBottomUp(vector<int>& cost,int n){
     }
     return min(dp[n-1],dp[n-2]);
 }
+int solvedpBottomUP(vector<int>& cost,int n){
+
+    int prev2= cost[0];
+    int prev1 = cost[1];
+
+    for(int i=2;i<n;i++){
+        int curr = cost[i] + min(prev1,prev2);
+        prev2 = prev1;
+        prev1 = curr;
+    }
+    return min(prev1,prev2);
+}
 
     int minCostClimbingStairs(vector<int>& cost) {
         //
@@ -47,8 +59,12 @@ int solvedpBottomUp(vector<int>& cost,int n){
         // return ans;
 
         //
+        // int n = cost.size();
+        // return solvedpBottomUp(cost,n);
+
+        //
         int n = cost.size();
-        return solvedpBottomUp(cost,n);
+        return solvedpBottomUP(cost,n);
 
     }
 };
