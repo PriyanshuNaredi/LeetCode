@@ -70,7 +70,32 @@ int solveTab(int n, vector<int>& days, vector<int> cost){
 
 }
 
+int solve(int n, vector<int> days, vector<int> cost){
+
+    int ans =0;
+    queue<pair<int,int>> month;
+    queue<pair<int,int>> week;
+
+    for(int day:days){
+        //STEP 1 : REMOVE EXPIRED DAYS
+        while(!month.empty() && month.front().first +30 <=day)
+         month.pop();
+        while(!week.empty() && week.front().first + 7 <=day)
+         week.pop();
+
+        //STEP 2: ADD COST FOR CURRENT DAY
+        week.push(make_pair(day, ans+cost[1]));
+        month.push(make_pair(day, ans+cost[2]));
+
+        //STEP 3 : ANS UPDATE WHICH IS TO FIND MINIMUM COST
+        ans = min(ans+cost[0] , min(week.front().second,month.front().second));
+
+    }
+
+    return ans;
+}
+
     int mincostTickets(vector<int>& days, vector<int>& costs) {
-        return solveTab(days.size(), days, costs);
+        return solve(days.size(), days, costs);
     }
 };
