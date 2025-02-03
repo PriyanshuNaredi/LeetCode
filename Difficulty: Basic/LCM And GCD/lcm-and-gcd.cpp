@@ -3,6 +3,14 @@
 using namespace std;
 
 
+/*
+Find GCD using Euclidean Formula 
+
+update the values of a and b using modulo of the g rater of two or b.
+
+after finding GCD, LCM can be calculated using (orgA * orgB ) / (a or b who is not zero)
+*/
+
 // } Driver Code Ends
 class Solution {
   public:
