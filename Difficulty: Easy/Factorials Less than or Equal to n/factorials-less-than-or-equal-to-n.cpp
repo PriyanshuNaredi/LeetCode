@@ -10,7 +10,7 @@ class Solution {
     vector<long long> factorialNumbers(long long n, long long x=1,vector<long long> ans={},long long a = 1) {
         if(x>n)
             return ans;
-        else{ 
+        else{
             ans.emplace_back(x);
             return factorialNumbers(n,x*(a+1),ans,a+1);
         }
