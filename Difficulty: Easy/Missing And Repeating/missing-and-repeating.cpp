@@ -14,6 +14,7 @@ class Solution {
         // return betterSolHashMap(arr);
         // return opt1(arr);
         return opt2(arr);
+        return opt2_bitManu(arr);
     }
     
     vector<int> opt1(vector<int>& a){
@@ -67,6 +68,49 @@ class Solution {
         }
         for(int i=1; i<=n; i++){ // 1..n series bit club finder
             if( (i & (1 << bitNo)) != 0){
+                // part of one bit club
+                one = one ^ i;
+                
+            }else{
+                // part of zero bit club
+                zero = zero ^ i;
+            }
+        }
+        
+        int cnt =0;
+        for(int i=0; i<n; i++){
+            if(a[i] == zero){
+                cnt++;
+                
+            }
+        }
+        
+        return (cnt == 2) ? std::vector<int>{zero, one} : std::vector<int>{one, zero};
+    }
+    
+    vector<int> opt2_bitManu(vector<int>& a){
+        long long n = a.size();
+        int xr = 0;
+        for(int i=0; i<n; i++){
+            xr = xr ^ a[i];
+            xr = xr ^ (i+1);
+        }
+        // finding diffrenciating bit
+        int bitNo = xr & ~(xr - 1);
+        
+        int zero = 0, one = 0;
+        for(int i=0; i<n; i++){ // array part club finder
+            if( (a[i] & bitNo) != 0){
+                // part of one bit club
+                one = one ^ a[i];
+                
+            }else{
+                // part of zero bit club
+                zero = zero ^ a[i];
+            }
+        }
+        for(int i=1; i<=n; i++){ // 1..n series bit club finder
+            if( (i & bitNo) != 0){
                 // part of one bit club
                 one = one ^ i;
                 
