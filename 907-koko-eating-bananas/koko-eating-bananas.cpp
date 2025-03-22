@@ -8,7 +8,7 @@ public:
         }
         return totalhrs;
     }
-    int minEatingSpeed(vector<int>& piles, int h) {
+    int mySol(vector<int>& piles, int h) {
         int low = 1, high = *max_element(piles.begin(), piles.end());
         cout << high;
         while (low <= high) {
@@ -23,5 +23,34 @@ public:
         }
 
         return low;
+    }
+    int betterExecutionTime(vector<int>& piles, int h) {
+        int l = 1;
+        int r = *max_element(piles.begin(), piles.end()) + 1;
+        int ans = 1;
+        while (l < r) {
+            int m = (r - l) / 2 + l;
+            int count = 0;
+
+            for (int i = 0; i < piles.size(); i++) {
+                // 算一堆需要幾個小時才能吃完
+                count += (piles[i] / m);
+                count += (piles[i] % m == 0) ? 0 : 1;
+            }
+            // cout << m << " count : " <<count <<endl;
+            if (count > h) { // 如果需要的小時大於 目標值h
+                l = m + 1;
+
+            } else {
+                r = m;
+                ans = m;
+            }
+        }
+
+        return ans;
+    }
+
+    int minEatingSpeed(vector<int>& piles, int h) {
+        return betterExecutionTime(piles, h);
     }
 };
