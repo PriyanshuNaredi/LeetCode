@@ -13,6 +13,7 @@ public:
         return sub;    
     }
     int splitArray(vector<int>& nums, int k) {
+        if ( k > nums.size()) return -1;
         int low = *max_element(nums.begin(), nums.end());
         int high = accumulate(nums.begin(), nums.end(), 0);
 
