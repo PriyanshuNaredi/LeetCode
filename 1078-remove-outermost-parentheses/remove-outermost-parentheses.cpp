@@ -52,4 +52,3 @@ const auto __ = []() {
     return 0;
 }();
 #endif
-
