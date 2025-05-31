@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        map<char, char> mapST;
-        map<char, char> mapTS;
+        unordered_map<char, char> mapST;
+        unordered_map<char, char> mapTS;
         int length = s.length() - 1;
 
         for (int i = 0; i < s.length(); i++){
