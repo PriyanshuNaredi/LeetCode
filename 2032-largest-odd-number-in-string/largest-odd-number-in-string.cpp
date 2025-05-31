@@ -8,7 +8,7 @@ public:
             return num;
         }
 
-        for (int i = num.length(); i >= 0; i--) {
+        for (int i = num.length()-1; i >= 0; i--) {
             if (((int)num[i]) % 2 != 0) {
                 // here return i+1 as the last index is excluded while using the
                 // substr function
