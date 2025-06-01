@@ -8,6 +8,7 @@ public:
         return s == t;
         */
 
+        /*
         // 2.
 
         if (s.size() != t.size())   return false;
@@ -31,10 +32,11 @@ public:
             }
         }
         return true;
+        */
 
 
-        /*
-        3.
+        
+        // 3.
         if (s.size() != t.size()) return false;
 
         unordered_map<char,int> freq;
@@ -46,6 +48,6 @@ public:
         }
 
         return true;
-        */
+        
     }
 };
