@@ -1,20 +1,21 @@
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:
-        # ---- build LPS ----
+        # # ---- build LPS ----
         lps = [0] * len(s)
-        preLPS, i = 0, 1                 # preLPS = length of current prefix-match
-
+        preLPS, i = 0, 1
         while i < len(s):
-            if s[i] == s[preLPS]:        # Case 1: characters match → extend prefix
-                preLPS += 1
-                lps[i] = preLPS
+            # Case1 : if both matches than increment pointer and lps[i] = needle[preLPS]
+            if s[i] == s[preLPS]:
+                lps[i] = preLPS + 1
                 i += 1
-            elif preLPS:                 # Case 2: mismatch → fall back
-                preLPS = lps[preLPS - 1]
-            else:                        # Case 3: preLPS == 0 → no prefix to fall back to
+                preLPS += 1
+            # Case3 : case2's check, to prevent preLPS going index out of bound
+            elif preLPS == 0:
                 lps[i] = 0
                 i += 1
-
+            # Case2 : if they don't matche then look in preLPS - 1, value in lps array
+            else:
+                preLPS = lps[preLPS - 1]
         # ---- optional debug: print LPS ----
         for val in lps:
             print(val)
