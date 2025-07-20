@@ -27,9 +27,24 @@ public:
         
     }
 
+    ListNode* reverseListRecrsive(ListNode* head) {
+
+        // Base Case
+        if (head == NULL || head -> next == NULL)   
+            return head;
+        
+        ListNode* newHead = reverseListRecrsive(head -> next);
+        ListNode *front = head -> next;
+        front -> next = head;
+        head -> next = NULL;
+
+        return newHead;
+        
+    }
+
     ListNode* reverseList(ListNode* head) {
 
-        return reverseListIterative(head);
+        return reverseListRecrsive(head);
         
     }
 };
