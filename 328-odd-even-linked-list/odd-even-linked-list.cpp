@@ -19,6 +19,7 @@ public:
         ListNode* even = head->next;
         ListNode* evenHead = head->next;
 
+// while loop is *even bcoz it always comes after *odd  
         while(even != nullptr and even->next != NULL){
             odd->next = odd->next->next;
             even->next = even->next->next;
