@@ -17,7 +17,6 @@ public:
 
         if (head->next->next == NULL)
             return head->next;
-
         
         ListNode* fast = head;
         ListNode* slow = head;
