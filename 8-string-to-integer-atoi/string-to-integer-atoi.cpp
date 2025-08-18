@@ -1,28 +1,36 @@
 class Solution {
-    int getNum(const string& s, int i, long result, int sign) {
-        if (i >= s.size() || !isdigit(s[i]))
+    int charToInti(const string& s, int i, int sign, long long result, bool numStarted, bool signHandled) {
+        if (i >= s.size())
             return sign * result;
 
-        result = result * 10 + (s[i] - '0');
-        if (sign * result >= INT_MAX) return INT_MAX;
-        if (sign * result <= INT_MIN) return INT_MIN;
+        // Skip leading spaces before any digit or sign
+        if (!numStarted && !signHandled && s[i] == ' ')
+            return charToInti(s, i + 1, sign, result, false, false);
 
-        return getNum(s, i + 1, result, sign);
+        // Handle sign before digits only, and only once
+        if (!numStarted && !signHandled && (s[i] == '-' || s[i] == '+')) 
+            return charToInti(s, i + 1, (s[i] == '-') ? -1 : 1, result, false, true);
+
+        // Parse digits
+        if (isdigit(s[i])) {
+            result = result * 10 + (s[i] - '0');
+            if (sign * result >= INT_MAX)
+                return INT_MAX;
+            if (sign * result <= INT_MIN)
+                return INT_MIN;
+            return charToInti(s, i + 1, sign, result, true, signHandled);
+        }
+
+        // If before parsing any digit, hit a non-space/non-sign/nondigit, return 0
+        if (!numStarted)
+            return 0;
+
+        // Stop at first non-digit once number has started
+        return sign * result;
     }
 
 public:
     int myAtoi(string s) {
-        int i = 0, sign = 1;
-        long result = 0;
-        while (i < s.size() && s[i] == ' ') i++;
-
-        if (s[i] == '+' || s[i] == '-') {
-            sign = (s[i] == '-') ? -1 : 1;
-            i++;
-        }
-
-        while (i < s.size() && s[i] == '0') i++;
-
-        return getNum(s, i, 0L, sign);
+        return charToInti(s, 0, 1, 0, false, false);
     }
 };
