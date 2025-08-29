@@ -8,4 +8,12 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
