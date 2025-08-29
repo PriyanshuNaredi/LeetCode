@@ -21,8 +21,27 @@ class Solution {
         return ans;
     }
 
+    double recSol(double x, int n){
+        if(n == 0)
+            return 1.0;
+        double half = recSol(x, n/2);
+        // x^n 
+        if(n % 2 == 0)
+            return half * half;
+            // if n even => x^n = (x^(n/2))^2
+        else
+            return half * half * x;
+            //  if n odd => x^n = ((x^(n/2))^2) * x 
+    }
+
 public:
     double myPow(double x, int n) {
-        return iterSol(x, n);
+        // return iterSol(x, n);
+        long long nn = n;
+        if(nn<0){
+            x = 1/x;
+            nn = -nn;
+        }
+        return recSol(x, nn);
     }
 };
