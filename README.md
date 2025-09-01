@@ -12,8 +12,13 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+| [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
 <!---LeetCode Topics End-->
