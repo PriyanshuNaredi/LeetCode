@@ -13,10 +13,12 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
 | [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
+| [2050-count-good-numbers](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
