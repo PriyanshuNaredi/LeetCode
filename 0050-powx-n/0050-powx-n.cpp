@@ -7,7 +7,7 @@ class Solution {
             nn = -1 * nn;
 
         while (nn) {
-            if (nn % 2) {
+            if (nn % 2 != 0)  {
                 ans = ans * x;
                 nn = nn - 1;
             } else {
@@ -36,12 +36,12 @@ class Solution {
 
 public:
     double myPow(double x, int n) {
-        // return iterSol(x, n);
-        long long nn = n;
-        if(nn<0){
-            x = 1/x;
-            nn = -nn;
-        }
-        return recSol(x, nn);
+        return iterSol(x, n);
+        // long long nn = n;
+        // if(nn<0){
+        //     x = 1/x;
+        //     nn = -nn;
+        // }
+        // return recSol(x, nn);
     }
 };
