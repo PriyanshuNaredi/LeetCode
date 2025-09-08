@@ -12,12 +12,14 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+| [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
 | [2050-count-good-numbers](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+| [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
@@ -47,4 +49,8 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
