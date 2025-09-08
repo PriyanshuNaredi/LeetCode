@@ -12,6 +12,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0069-sqrtx) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
 | [2050-count-good-numbers](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2050-count-good-numbers) |
@@ -53,4 +54,8 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
