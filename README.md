@@ -46,6 +46,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
