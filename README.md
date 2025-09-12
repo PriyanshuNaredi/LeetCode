@@ -45,6 +45,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
@@ -54,9 +55,14 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
