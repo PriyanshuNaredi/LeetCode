@@ -47,6 +47,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
