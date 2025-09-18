@@ -8,6 +8,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
