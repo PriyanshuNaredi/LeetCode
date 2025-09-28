@@ -8,6 +8,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
@@ -79,6 +80,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -99,4 +101,8 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
