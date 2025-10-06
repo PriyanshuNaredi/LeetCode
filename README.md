@@ -51,6 +51,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
