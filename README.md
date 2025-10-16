@@ -9,6 +9,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -38,6 +39,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -54,6 +56,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0283-move-zeroes) |
@@ -87,6 +90,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -112,4 +116,8 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
