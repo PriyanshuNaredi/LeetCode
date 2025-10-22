@@ -1,4 +1,5 @@
 class Solution:
+    # O(N∗M∗K)
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         n = len(s)
         dp = [False] * (n+1)
