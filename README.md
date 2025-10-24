@@ -54,6 +54,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0051-n-queens) |
@@ -90,6 +91,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0051-n-queens) |
@@ -108,6 +110,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -125,6 +128,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
