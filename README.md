@@ -67,6 +67,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -117,6 +118,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -147,8 +149,13 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
