@@ -63,6 +63,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0051-n-queens](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
@@ -157,5 +159,6 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
