@@ -1,7 +1,7 @@
 class Solution {
     vector<int> findNSL(vector<int> arr) {
         // Will store index of NSL rather than Value
-
+        /*
         stack<int> st;
         vector<int> v(arr.size());
         for (int i = 0; i < arr.size(); i++) {
@@ -11,7 +11,7 @@ class Solution {
             st.push(i);
         }
         return v;
-        /*
+        */
             stack<pair<int,int>> st;
             vector<int> v(arr.size());
 
@@ -23,7 +23,7 @@ class Solution {
                 st.push({arr[i], i});
             }
             return v;
-        */
+        
     }
 
     vector<int> findNSR(vector<int> arr) {
