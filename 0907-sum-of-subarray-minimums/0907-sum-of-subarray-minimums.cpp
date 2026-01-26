@@ -71,7 +71,6 @@ public:
         for (int i = 0; i < arr.size(); i++) {
             int left = i - nsl[i];
             int right = nsr[i] - i;
-            // total += ((right * left * (1LL) * arr[i]) % MOD) % MOD;
             /* Count of subarrays where 
             current element is minimum */
             long long freq = left*right*1LL;
