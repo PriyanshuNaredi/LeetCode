@@ -10,6 +10,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
@@ -125,6 +126,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -193,6 +195,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
