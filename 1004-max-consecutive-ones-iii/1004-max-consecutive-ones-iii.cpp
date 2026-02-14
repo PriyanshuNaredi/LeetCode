@@ -23,7 +23,7 @@ public:
             result = max(result, j - i + 1);
             j++;
         }
-        
+         
         return result;
     }
 };
