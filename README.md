@@ -17,6 +17,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
@@ -134,6 +135,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0076-minimum-window-substring](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -203,6 +205,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
