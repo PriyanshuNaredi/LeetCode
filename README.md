@@ -19,6 +19,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0402-remove-k-digits](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0800-letter-case-permutation](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/PriyanshuNaredi/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
@@ -146,6 +147,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0930-binary-subarrays-with-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0930-binary-subarrays-with-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
