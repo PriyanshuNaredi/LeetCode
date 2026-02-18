@@ -86,6 +86,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [1004-max-consecutive-ones-iii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -96,6 +97,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0930-binary-subarrays-with-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [1004-max-consecutive-ones-iii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
