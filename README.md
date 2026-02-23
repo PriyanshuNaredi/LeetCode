@@ -91,6 +91,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/PriyanshuNaredi/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
@@ -156,6 +157,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
