@@ -43,6 +43,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
 ## Tree
 |  |
@@ -81,6 +82,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0283-move-zeroes](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0735-asteroid-collision) |
@@ -154,6 +156,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -166,6 +169,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -245,6 +249,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
@@ -271,6 +276,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 ## Geometry
 |  |
 | ------- |
