@@ -50,6 +50,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -285,4 +289,12 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
