@@ -61,6 +61,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0239-sliding-window-maximum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -191,6 +193,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0085-maximal-rectangle](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0322-coin-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
