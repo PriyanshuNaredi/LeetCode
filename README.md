@@ -46,6 +46,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0455-assign-cookies](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0860-lemonade-change) |
 | [1033-broken-calculator](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1033-broken-calculator) |
 ## Tree
 |  |
@@ -94,6 +95,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0724-find-pivot-index](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
