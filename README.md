@@ -43,6 +43,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0621-task-scheduler) |
@@ -78,6 +79,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -194,6 +196,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0139-word-break) |
