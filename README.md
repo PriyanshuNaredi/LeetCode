@@ -43,6 +43,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0037-sudoku-solver](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0078-subsets) |
@@ -196,6 +198,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0131-palindrome-partitioning) |
