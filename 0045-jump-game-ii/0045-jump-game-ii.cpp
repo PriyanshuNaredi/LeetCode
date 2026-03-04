@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int jump1(vector<int>& nums) {
+    int jump(vector<int>& nums) {
         // Initialize variables to keep track of range and jumps
         int jumps = 0, currentEnd = 0, farthest = 0;
 
         // Traverse through the array (excluding the last element)
-        for (int i = 0; i < nums.size() - 1; ++i) {
+        for (int i = 0; i < nums.size() - 1; i++) {
             // Update the farthest index that can be reached so far
             farthest = max(farthest, i + nums[i]);
 
@@ -23,7 +23,7 @@ public:
         return jumps;
     }
 
-    int jump(vector<int>& nums) {
+    int jump1(vector<int>& nums) {
         int jumps = 0, l = 0, r = 0;
 
         while (r < nums.size() - 1) {
