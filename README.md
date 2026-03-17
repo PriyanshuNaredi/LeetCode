@@ -56,12 +56,14 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Array
 |  |
@@ -226,6 +229,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0020-valid-parentheses](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0496-next-greater-element-i) |
