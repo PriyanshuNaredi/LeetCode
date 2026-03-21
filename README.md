@@ -66,6 +66,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,6 +103,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +209,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0846-hand-of-straights](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -220,6 +225,7 @@ Collection of [LeetCode](https://leetcode.com/u/PriyanshuNaredi29/) and [GFG](ht
 | [0658-find-k-closest-elements](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PriyanshuNaredi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PriyanshuNaredi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
